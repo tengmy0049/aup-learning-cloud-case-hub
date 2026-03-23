@@ -22,7 +22,7 @@
 
 ## 快速开始 
 1. 在 aup-learning-cloud 中选择 **Basic GPU Environment**，Git URL 填写本仓库地址
-2. 进入 `cases/<活动文件夹>/<你的文件夹>/`
+2. 进入 `cases/2026-03-njupt-winter-battle/liuxiaoming-narrative-logic-workshop`
 3. 打开 `main_zh.ipynb`（中文版）或 `main.ipynb`（英文版）
 4. 从头到尾运行所有 Cell
 5. 在“在此续写故事片段...”处输入任意情节片段，再在下方点击任意按钮即可体验功能
