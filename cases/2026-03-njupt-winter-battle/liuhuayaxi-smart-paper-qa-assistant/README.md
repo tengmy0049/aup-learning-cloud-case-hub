@@ -1,17 +1,17 @@
-# Intelligent Paper QA Assistant
+# Literature QA and Comparative Analysis System Based on Prompt Engineering and Long-Context Processing
 
 [中文版本](./README_ZH.md)
 
 ## Project Overview
 
-Intelligent Paper QA Assistant is a notebook-based system for course-material QA, paper reading, and comparative literature analysis. Built on prompt engineering and long-context processing, it provides an end-to-end workflow covering document ingestion, knowledge-base construction, retrieval-based QA, single-paper analysis, multi-paper comparison, field extraction, and report export.
+Literature QA and Comparative Analysis System Based on Prompt Engineering and Long-Context Processing is a notebook-based system for course-material QA, paper reading, and comparative literature analysis. Built on prompt engineering and long-context processing, it provides an end-to-end workflow covering document ingestion, knowledge-base construction, retrieval-based QA, single-paper analysis, multi-paper comparison, field extraction, and report export.
 
 Instead of acting like a generic chat demo, the project is designed as an engineering-oriented research assistant: answers should be grounded in retrieved evidence when possible, analysis should be reviewable, and long-running or long-context tasks should remain stable and resumable.
 
 ## Activity Information
 
 - **Competition / Workshop:** 2026 NJUPT Winter Battle - AMD ROCm
-- **Team Members:** SuniShi-RanYan
+- **Team Members:** Shi Suni, Yan Ran
 - **Awarded:** 
 
 ## Problem Setting
